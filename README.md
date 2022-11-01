@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**verona/verona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Veronaz/Veronaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 <!-- <h3> नमस्ते (Namaste)🙏🏻, I am Verona 👋</h3> -->
 ### नमस्ते (Namaste)🙏🏻, I am Verona 👋
-[![Linkedin Badge](https://img.shields.io/badge/-nhat416-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/verona-zheng-a59501120/)](https://www.linkedin.com/in/verona-zheng-a59501120/)
-[![Gmail Badge](https://img.shields.io/badge/-nhatt416@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nhatt416@gmail.com)](mailto:nhatt416@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-Veronaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/verona-zheng-a59501120/)](https://www.linkedin.com/in/verona-zheng-a59501120/)
+[![Gmail Badge](https://img.shields.io/badge/-zzhengwenting@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zzhengwenting@gmail.com)](mailto:zzhengwenting@gmail.com) 
 
 
-- 🎯 Portfolio website: [Portfolio](https://nhat416.github.io/)
+- 🎯 Portfolio website: [Portfolio](https://Veronaz.github.io/)
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 
@@ -48,12 +48,12 @@ Here are some ideas to get you started:
 
 ### :zap: Github Stats
 <p>
-    <a href="https://gitstats.me/nhat416" target="_blank"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=nhat416&&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">
+    <a href="https://gitstats.me/Veronaz" target="_blank"> 
+        <img src="https://github-readme-stats.vercel.app/api?username=Veronaz&&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">
     </a>
 </p>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhat416&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veronaz&layout=compact)](https://github.com/Veronaz/github-readme-stats) -->
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
