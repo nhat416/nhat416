@@ -53,7 +53,7 @@ Here are some ideas to get you started:
     </a>
 </p>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhat416&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhat416&layout=compact)](https://github.com/nhat416/github-readme-stats) -->
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
