@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**nhat416/nhat416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**verona/verona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-<!-- <h3> नमस्ते (Namaste)🙏🏻, I am Nhat 👋</h3> -->
-### नमस्ते (Namaste)🙏🏻, I am Nhat 👋
-[![Linkedin Badge](https://img.shields.io/badge/-nhat416-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nhattran-toronto/)](https://www.linkedin.com/in/nhattran-toronto/)
+<!-- <h3> नमस्ते (Namaste)🙏🏻, I am Verona 👋</h3> -->
+### नमस्ते (Namaste)🙏🏻, I am Verona 👋
+[![Linkedin Badge](https://img.shields.io/badge/-nhat416-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/verona-zheng-a59501120/)](https://www.linkedin.com/in/verona-zheng-a59501120/)
 [![Gmail Badge](https://img.shields.io/badge/-nhatt416@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nhatt416@gmail.com)](mailto:nhatt416@gmail.com) 
 
 
@@ -58,4 +58,4 @@ Here are some ideas to get you started:
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
 <!--[website]: -->
-[linkedin]: https://www.linkedin.com/in/nhattran-toronto
+[linkedin]: https://www.linkedin.com/in/verona-zheng-a59501120
