@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-nhatt416@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nhatt416@gmail.com)](mailto:nhatt416@gmail.com) 
 
 
-- 🎯 Portfolio website: [Portfolio](https://nhat416.github.io/)
+- 🎯 Portfolio website: [Portfolio](https://nhat.work)
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 
