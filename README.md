@@ -14,7 +14,7 @@
 ### नमस्ते (Namaste)🙏🏻, I am Nhat 👋
 [![Linkedin Badge](https://img.shields.io/badge/-nhat416-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nhattran-toronto/)](https://www.linkedin.com/in/nhattran-toronto/)
 
-[![Gmail Badge](https://img.shields.io/badge/-dev@nhat.work-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev@nhat.work)](mailto:dev@nhat.work) 
+[![Gmail Badge](https://img.shields.io/badge/-dev@nhat.work-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@nhat.work)](mailto:mail@nhat.work) 
 
 
 - 🎯 Portfolio website: [Portfolio](https://nhat.work)
