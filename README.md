@@ -12,7 +12,7 @@
 
 <!-- <h3> नमस्ते (Namaste)🙏🏻, I am Nhat 👋</h3> -->
 ### नमस्ते (Namaste)🙏🏻, I am Nhat 👋
-[![Linkedin Badge](https://img.shields.io/badge/-nhat416-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nhattran-toronto/)](https://www.linkedin.com/in/nhattran-toronto/)
+[![Linkedin Badge](https://img.shields.io/badge/-nhattran-toronto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nhattran-toronto/)](https://www.linkedin.com/in/nhattran-toronto/)
 
 [![Gmail Badge](https://img.shields.io/badge/-nhat416dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nhat416dev@gmail.com)](mailto:nhat416dev@gmail.com) 
 
